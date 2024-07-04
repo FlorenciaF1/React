@@ -13,7 +13,7 @@ const persona = {
 
 // consolte.table( persona );
 
-const persona2 = { ...persona }
+const persona2 = { ...persona } // operador spread
 persona2.nombre = 'Peter';
 
 console.log( persona );
