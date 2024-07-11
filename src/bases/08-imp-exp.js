@@ -35,4 +35,3 @@ export const getHeroesByOwner = ( owner ) => heroes.filter( ( heroe ) => heroe.o
 
 // Solucion mas corta:
 // const getHeroById = (id) => heroes.find( ( heroe ) => heroe.id === id);
-
