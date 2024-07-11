@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# 📚 React: De cero a experto ( Hooks y MERN )
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![React](https://img.shields.io/badge/React-JavaScript-blue)
 
-## Available Scripts
+Bienvenido al curso de **React: De cero a experto ( Hooks y MERN )** de Fernando Herrera! 🎉 <br>
+Aquí aprenderé todo lo que se necesita para convertirme en una desarrolladora experta en React. <br>
+¡Lista para un viaje emocionante! 🚀
 
-In the project directory, you can run:
+🌟 Requisitos <br>
+Node.js >= 12.x <br>
+npm >= 6.x
 
-### `npm start`
+🎯 Desafío Personal <br> 
+Estoy tomando este curso de 508 lecciones y 54 horas de contenido en video como un desafío personal para codear un poco cada día y mejorar mis habilidades en React. ¡Acompañame en este aprendizaje! 💪 <br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+👩🏻‍💻 En tanto finalice, publicaré mi certificado de finalización en mi LinkedIn: <br>
+https://www.linkedin.com/in/florencia-fernandez-fullstack-developer/
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🚧 Progreso del Curso: <br>
+Sección 1: Introducción - 5/5 Completado <br>
+Sección 2: Introducción a React y conceptos generales - 5/5 Completado <br>
+Sección 3: Introducción a JavaScript moderno - 9/18 En curso <br>
+Sección 4: Primeros pasos en React - 0/20 <br>
+Sección 5: Pruebas unitarias y de integración - Probando las secciones anteriores - 0/22 <br>
+Sección 6: GifExpertApp - Aplicación - 0/21 <br>
+Sección 7: Generando el build de producción y despliegues - 0/7 <br>
+Sección 8: Testing - Probando la aplicación de GifExpert - 0/15 <br>
+Sección 9: Profundizando Hooks - Generales - 0/24 <br>
+Sección 10: Profundizando Hooks - useReducer - 0/16 <br>
+Sección 11: Profundizando Hooks - useContext - 0/10 <br>
+Sección 12: Pruebas unitarias y de integración - Hooks - 0/17 <br>
+Sección 13: Bonus: Repositorio de Custom Hooks - 0/5 <br>
+Sección 14: HeroesApp - Single Page Application (SPA) - 0/22 <br>
+Sección 15: Protección de rutas - 0/12 <br>
+Sección 16: Pruebas de nuestra aplicación de Heroes - 0/16 <br>
+Sección 17: JournalApp - MaterialUI - Estructura y Diseño - 0/20 <br>
+Sección 18: Redux - ¿Qué es y conceptos? + React Redux - 0/17 <br>
+Sección 19: Introducción a Redux y autenticación en Firebase - 0/24 <br>
+Sección 20: JournalApp - Redux - CRUD en Firestore y subida de archivos - 0/24 <br>
+Sección 21: Pruebas con Redux, Firebase, Firestore y autenticación - 0/24 <br>
+Sección 22: MERN Calendar - Estructura y Diseño - 0/25 <br>
+Sección 23: CalendarApp - Backend - Node, Express, Mongo - 0/21 <br>
+Sección 24: Backend - Eventos del calendario - CRUD - 0/11 <br>
+Sección 25: Despliegue del backend a la nube - 0/6 <br>
+Sección 26: MERN - Calendario + Backend - 0/15 <br>
+Sección 27: MERN CRUD - Eventos del calendario - 0/11 <br>
+Sección 28: Fin el MERN - Desplegarlo a producción - 0/5 <br>
+Sección 29: Pruebas unitarias y de integración - MERN - 0/26 <br>
+Sección 30: Fin del curso - 0/6 <br>
+Sección 31: Heroes App - Router Versión 5 - 0/15 <br>
+Sección 32: Rutas Protegidas - Router Versión 5 - 0/9 <br>
+Sección 33: Pruebas con Router V5 <br>
 
-### `npm test`
+🤝 Contribuciones <br>
+¡Las contribuciones son bienvenidas! Si encontras un error o tenés una sugerencia, por favor abrí una issue o enviá un pull request.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+📧 Contacto <br>
+Si te interesa contactarme podes hacerlo a través de mi correo electrónico florencia.fernandez.dev@gmail.com 
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+💙 Happy Coding! 💙
