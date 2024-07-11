@@ -2,16 +2,16 @@
 
 ![React](https://img.shields.io/badge/React-JavaScript-blue)
 
-Bienvenidos al curso de **React: De cero a experto ( Hooks y MERN )** de Fernando Herrera! 🎉 <br>
-Aquí aprenderás todo lo que necesitas saber para convertirte en un desarrollador experto en React. <br>
-¡Prepárate para un viaje emocionante! 🚀
+Bienvenido al curso de **React: De cero a experto ( Hooks y MERN )** de Fernando Herrera! 🎉 <br>
+Aquí aprenderé todo lo que se necesita para convertirme en una desarrolladora experta en React. <br>
+¡Lista para un viaje emocionante! 🚀
 
 🌟 Requisitos <br>
 Node.js >= 12.x <br>
 npm >= 6.x
 
 🎯 Desafío Personal <br> 
-Estoy tomando este curso de 508 lecciones y 54 horas de contenido en video como un desafío personal para codear un poco cada día y mejorar mis habilidades en React. ¡Acompáñame en este viaje de aprendizaje continuo! 💪 <br>
+Estoy tomando este curso de 508 lecciones y 54 horas de contenido en video como un desafío personal para codear un poco cada día y mejorar mis habilidades en React. ¡Acompañame en este aprendizaje! 💪 <br>
 
 👩🏻‍💻 En tanto finalice, publicaré mi certificado de finalización en mi LinkedIn: <br>
 https://www.linkedin.com/in/florencia-fernandez-fullstack-developer/
@@ -52,9 +52,9 @@ Sección 32: Rutas Protegidas - Router Versión 5 - 0/9 <br>
 Sección 33: Pruebas con Router V5 <br>
 
 🤝 Contribuciones <br>
-¡Las contribuciones son bienvenidas! Si encuentras un error o tienes una sugerencia, por favor abre una issue o envía un pull request.
+¡Las contribuciones son bienvenidas! Si encontras un error o tenés una sugerencia, por favor abrí una issue o enviá un pull request.
 
 📧 Contacto <br>
-Si te interesa contactarme podes hacerlo a traves de mi correo electronico florencia.fernandez.dev@gmail.com 
+Si te interesa contactarme podes hacerlo a través de mi correo electrónico florencia.fernandez.dev@gmail.com 
 
 💙 Happy Coding! 💙
