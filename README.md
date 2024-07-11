@@ -6,20 +6,17 @@ Bienvenidos al curso de **React: De cero a experto ( Hooks y MERN )** de Fernand
 Aquí aprenderás todo lo que necesitas saber para convertirte en un desarrollador experto en React. <br>
 ¡Prepárate para un viaje emocionante! 🚀
 
-🌟 Requisitos
-
+🌟 Requisitos <br>
 Node.js >= 12.x <br>
 npm >= 6.x
 
-🎯 Desafío Personal
+🎯 Desafío Personal <br> 
+Estoy tomando este curso de 508 lecciones y 54 horas de contenido en video como un desafío personal para codear un poco cada día y mejorar mis habilidades en React. ¡Acompáñame en este viaje de aprendizaje continuo! 💪 <br>
 
-Estoy tomando este curso de 508 lecciones y 54 horas de contenido en video como un desafío personal para codear un poco cada día y mejorar mis habilidades en React. <br>
-¡Acompáñame en este viaje de aprendizaje continuo! 💪 <br>
-En tanto finalice, publicaré mi certificado de finalización en mi LinkedIn: <br>
+👩🏻‍💻 En tanto finalice, publicaré mi certificado de finalización en mi LinkedIn: <br>
 https://www.linkedin.com/in/florencia-fernandez-fullstack-developer/
 
-🚧 Progreso del Curso:
-
+🚧 Progreso del Curso: <br>
 Sección 1: Introducción - 5/5 Completado <br>
 Sección 2: Introducción a React y conceptos generales - 5/5 Completado <br>
 Sección 3: Introducción a JavaScript moderno - 9/18 En curso <br>
@@ -54,15 +51,10 @@ Sección 31: Heroes App - Router Versión 5 - 0/15 <br>
 Sección 32: Rutas Protegidas - Router Versión 5 - 0/9 <br>
 Sección 33: Pruebas con Router V5 <br>
 
-<br>
-🤝 Contribuciones
-
+🤝 Contribuciones <br>
 ¡Las contribuciones son bienvenidas! Si encuentras un error o tienes una sugerencia, por favor abre una issue o envía un pull request.
 
-<br>
-📧 Contacto
-
+📧 Contacto <br>
 Si te interesa contactarme podes hacerlo a traves de mi correo electronico florencia.fernandez.dev@gmail.com 
 
-<br>
 💙 Happy Coding! 💙
